@@ -6,7 +6,7 @@ provider "google" {
 
 terraform {
     backend "gcs" {
-        bucket = "terraform-bucket-edem"
+        bucket = "hackathon_nttdata"
         prefix = "terraform/state"
     }
 }

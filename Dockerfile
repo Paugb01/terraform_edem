@@ -7,7 +7,7 @@ FROM golang:1.13 as builder
 WORKDIR /app
 
 # Copy local code to the container image.
-COPY ./main.go ./main.go
+COPY ./hello_world.py ./hello_world.py
 
 # Build the binary.
 RUN CGO_ENABLED=0 GOOS=linux go build -v -o server

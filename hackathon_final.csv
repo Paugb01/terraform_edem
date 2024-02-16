@@ -1,0 +1,934 @@
+,id_ev,tipo_ev,nombre_ev,prod_as_ev,fecha_ev,loc_ev,estado,id_cli,fecha_nac,sexo,prov,importe_activos_0,importe_activos_1
+0,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+1,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+2,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+3,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+4,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+5,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+6,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,385018,04/10/1978,M,madrid,578454.57,694833.99
+7,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,573461,04/08/1934,M,SEV,747875.59,1183797.81
+8,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+9,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+10,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+11,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+12,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+13,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+14,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+15,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+16,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+17,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+18,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+19,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+20,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,399288,24/04/1977,M,MAD,854308.13,1278369.11
+21,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+22,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+23,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+24,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+25,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+26,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+27,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+28,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+29,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+30,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+31,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+32,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,571593,26/02/1957,M,madrid,522171.12,1036768.72
+33,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+34,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,568086,28/10/1992,M,sevilla,179558.35,278797.64
+35,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+36,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+37,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+38,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+39,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+40,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+41,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+42,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+43,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+44,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,589562,23/09/1944,M,MLG,169636.53,293434.83
+45,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+46,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+47,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+48,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+49,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,536637,25/11/1982,H,MLG,645870.72,997421.57
+50,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+51,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,553677,28/07/1940,H,valencia,59663.81,108899.49
+52,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,507454,10/03/1938,M,BIL,469635.36,747192.31
+53,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+54,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,333446,06/09/1958,H,malaga,424928.5,790943.81
+55,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+56,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,577524,21/06/1970,H,BIL,126474.95,158211.83
+57,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+58,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,313434,07/03/1992,M,BIL,550929.99,609982.11
+59,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+60,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,381614,22/02/1940,H,MLG,527780.5,1011117.45
+61,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+62,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+63,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+64,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+65,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,527219,19/12/1932,M,malaga,712655.32,886305.07
+66,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+67,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+68,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+69,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,331159,27/11/1987,M,MLG,124873.02,243375.77
+70,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,501380,15/04/1993,H,Valencia,931358.04,1366513.27
+71,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,382582,12/08/1944,M,Barcelona,918525.92,921465.91
+72,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,461443,12/12/1960,M,Zaragoza,84465.79,144048.74
+73,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,396239,11/06/1948,M,Valencia,606048.79,934730.71
+74,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,537832,16/09/1936,M,MAD,719486.24,726799.47
+75,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,532047,23/10/1949,H,zaragoza,284305.65,553164.61
+76,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,305762,14/09/1956,M,malaga,883966.48,1184389.88
+77,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,349324,04/12/1932,H,Barcelona,403847.92,700728.75
+78,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,430919,30/01/1932,M,MAD,169616.57,262326.11
+79,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,444363,24/09/1986,H,VLC,98221.17,115344.21
+80,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,580800,25/12/1968,M,Valencia,333900.29,644998.49
+81,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,423939,02/03/1969,M,Valencia,480021.66,809249.44
+82,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,367627,12/03/1952,M,sevilla,436424.68,427863.53
+83,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,356047,07/05/1935,M,BIL,851269.81,1101799.06
+84,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,511825,04/01/1970,H,barcelona,990629.63,1620800.81
+85,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,592248,22/04/1950,M,Barcelona,400403.25,464213.26
+86,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,558642,19/06/1962,H,sevilla,481691.89,648613.79
+87,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion aceptada,307172,07/11/1995,H,Zaragoza,364894.96,550782.32
+88,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,429407,16/04/1994,M,Sevilla,569499.09,637194.63
+89,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,301772,28/10/1963,M,zaragoza,612741.46,1176898.81
+90,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,511839,16/04/1990,M,BIL,713183.2,1247359.39
+91,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,458164,08/04/1949,H,Barcelona,475241.2,858531.8
+92,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Invitacion enviada,446685,13/08/2000,H,BIL,658576.02,561603.68
+93,881,16,Estrategias para acumular fondos,Seguro de Ahorro Educativo,06/07/2018,Barcelona,Asistido,424609,16/03/1965,M,Málaga,733676.27,865064.06
+94,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,400237,21/10/1971,H,BIL,104623.0,185796.13
+95,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+96,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+97,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+98,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+99,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+100,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,385018,04/10/1978,M,madrid,578454.57,694833.99
+101,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+102,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+103,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+104,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+105,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+106,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+107,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,328310,14/09/1950,H,bilbao,192519.86,235013.03
+108,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+109,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+110,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+111,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+112,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+113,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+114,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+115,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+116,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,441601,19/04/1951,H,madrid,334508.24,531307.14
+117,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+118,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+119,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+120,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+121,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+122,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+123,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+124,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+125,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+126,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+127,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+128,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+129,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+130,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+131,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+132,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+133,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+134,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+135,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+136,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+137,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+138,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,589562,23/09/1944,M,MLG,169636.53,293434.83
+139,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,503181,21/02/1963,M,SEV,973514.38,1580599.76
+140,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+141,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+142,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+143,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,536637,25/11/1982,H,MLG,645870.72,997421.57
+144,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+145,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,553677,28/07/1940,H,valencia,59663.81,108899.49
+146,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,507454,10/03/1938,M,BIL,469635.36,747192.31
+147,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+148,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,333446,06/09/1958,H,malaga,424928.5,790943.81
+149,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+150,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,577524,21/06/1970,H,BIL,126474.95,158211.83
+151,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+152,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,313434,07/03/1992,M,BIL,550929.99,609982.11
+153,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+154,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Asistido,381614,22/02/1940,H,MLG,527780.5,1011117.45
+155,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+156,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+157,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+158,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion aceptada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+159,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,527219,19/12/1932,M,malaga,712655.32,886305.07
+160,685,10,Bienestar en cuerpo y mente,Plan de Ahorro Plus,26/02/2016,Sevilla,Invitacion enviada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+161,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+162,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+163,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+164,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+165,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+166,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+167,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,385018,04/10/1978,M,madrid,578454.57,694833.99
+168,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+169,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+170,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+171,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+172,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+173,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+174,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+175,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+176,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+177,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+178,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+179,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+180,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,420194,18/01/1956,H,MAD,766162.58,1321718.83
+181,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+182,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+183,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,441601,19/04/1951,H,madrid,334508.24,531307.14
+184,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+185,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+186,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+187,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+188,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+189,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+190,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+191,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,500305,25/12/1998,H,Málaga,321425.55,443334.65
+192,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+193,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,571593,26/02/1957,M,madrid,522171.12,1036768.72
+194,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+195,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+196,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+197,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+198,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+199,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+200,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+201,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,378958,21/05/1946,M,Madrid,655951.7,641108.03
+202,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,354704,25/04/1999,H,Valencia,281509.37,512658.6
+203,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,418052,24/08/1955,M,sevilla,226051.04,286067.36
+204,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+205,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,589562,23/09/1944,M,MLG,169636.53,293434.83
+206,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+207,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Asistido,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+208,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+209,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion enviada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+210,1193,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,23/08/2023,Madrid,Invitacion aceptada,536637,25/11/1982,H,MLG,645870.72,997421.57
+240,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,400237,21/10/1971,H,BIL,104623.0,185796.13
+241,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,386736,25/05/1957,M,MAD,73324.92,75298.18
+242,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+243,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,599779,15/11/1997,M,BCN,629294.88,701807.02
+244,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+245,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+246,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,385018,04/10/1978,M,madrid,578454.57,694833.99
+247,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,573461,04/08/1934,M,SEV,747875.59,1183797.81
+248,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+249,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+250,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+251,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+252,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+253,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+254,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+255,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+256,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+257,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+258,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+259,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+260,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+261,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+262,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,441601,19/04/1951,H,madrid,334508.24,531307.14
+263,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+264,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+265,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+266,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+267,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+268,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+269,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,442757,09/06/1988,M,VLC,494328.53,830044.37
+270,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,500305,25/12/1998,H,Málaga,321425.55,443334.65
+271,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,474495,25/12/1990,H,Málaga,514179.79,525419.11
+272,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+273,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+274,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+275,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+276,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+277,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+278,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+279,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+280,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+281,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,354704,25/04/1999,H,Valencia,281509.37,512658.6
+282,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,418052,24/08/1955,M,sevilla,226051.04,286067.36
+283,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+284,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,589562,23/09/1944,M,MLG,169636.53,293434.83
+285,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+286,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+287,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+288,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,576923,22/04/1983,M,barcelona,130921.63,222427.78
+289,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,536637,25/11/1982,H,MLG,645870.72,997421.57
+290,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,421122,21/09/1966,M,MAD,477243.57,569261.23
+291,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,553677,28/07/1940,H,valencia,59663.81,108899.49
+292,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,507454,10/03/1938,M,BIL,469635.36,747192.31
+293,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,413269,30/05/1938,M,sevilla,720943.87,998509.98
+294,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,333446,06/09/1958,H,malaga,424928.5,790943.81
+295,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+296,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,577524,21/06/1970,H,BIL,126474.95,158211.83
+297,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+298,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,313434,07/03/1992,M,BIL,550929.99,609982.11
+299,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+300,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,381614,22/02/1940,H,MLG,527780.5,1011117.45
+301,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,459355,25/11/1955,M,bilbao,281443.14,271212.92
+302,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+303,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+304,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+305,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,527219,19/12/1932,M,malaga,712655.32,886305.07
+306,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+307,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+308,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+309,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,331159,27/11/1987,M,MLG,124873.02,243375.77
+310,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,501380,15/04/1993,H,Valencia,931358.04,1366513.27
+311,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,382582,12/08/1944,M,Barcelona,918525.92,921465.91
+312,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,461443,12/12/1960,M,Zaragoza,84465.79,144048.74
+313,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,396239,11/06/1948,M,Valencia,606048.79,934730.71
+314,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,537832,16/09/1936,M,MAD,719486.24,726799.47
+315,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,532047,23/10/1949,H,zaragoza,284305.65,553164.61
+316,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,305762,14/09/1956,M,malaga,883966.48,1184389.88
+317,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,349324,04/12/1932,H,Barcelona,403847.92,700728.75
+318,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,430919,30/01/1932,M,MAD,169616.57,262326.11
+319,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,444363,24/09/1986,H,VLC,98221.17,115344.21
+320,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,580800,25/12/1968,M,Valencia,333900.29,644998.49
+321,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,423939,02/03/1969,M,Valencia,480021.66,809249.44
+322,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,367627,12/03/1952,M,sevilla,436424.68,427863.53
+323,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,356047,07/05/1935,M,BIL,851269.81,1101799.06
+324,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,511825,04/01/1970,H,barcelona,990629.63,1620800.81
+325,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,592248,22/04/1950,M,Barcelona,400403.25,464213.26
+326,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,558642,19/06/1962,H,sevilla,481691.89,648613.79
+327,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,307172,07/11/1995,H,Zaragoza,364894.96,550782.32
+328,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion aceptada,429407,16/04/1994,M,Sevilla,569499.09,637194.63
+329,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,301772,28/10/1963,M,zaragoza,612741.46,1176898.81
+330,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,511839,16/04/1990,M,BIL,713183.2,1247359.39
+331,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,458164,08/04/1949,H,Barcelona,475241.2,858531.8
+332,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Invitacion enviada,446685,13/08/2000,H,BIL,658576.02,561603.68
+333,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,424609,16/03/1965,M,Málaga,733676.27,865064.06
+334,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,513176,02/03/1936,H,Madrid,537339.51,496403.2
+335,906,17,Selección de pólizas,Financiamiento TechAdvance,20/07/2018,Sevilla,Asistido,332356,15/07/1993,H,zaragoza,384313.21,750792.78
+336,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+337,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+338,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+339,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+340,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+341,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+342,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,385018,04/10/1978,M,madrid,578454.57,694833.99
+343,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+344,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+345,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+346,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+347,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+348,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+349,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+350,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+351,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+352,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+353,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+354,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+355,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion aceptada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+356,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+357,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Invitacion enviada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+358,395,19,Planifica tu jubilacion,Asesoría Financiera Personalizada,20/10/2022,Zaragoza,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+359,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+360,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+361,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+362,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+363,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+364,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+365,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,442757,09/06/1988,M,VLC,494328.53,830044.37
+366,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,500305,25/12/1998,H,Málaga,321425.55,443334.65
+367,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+368,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+369,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,317325,27/07/1999,H,Madrid,335533.13,479858.12
+370,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+371,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+372,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+373,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+374,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+375,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+376,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+377,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,354704,25/04/1999,H,Valencia,281509.37,512658.6
+378,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+379,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+380,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,589562,23/09/1944,M,MLG,169636.53,293434.83
+381,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+382,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+383,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+384,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+385,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,536637,25/11/1982,H,MLG,645870.72,997421.57
+386,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+387,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,553677,28/07/1940,H,valencia,59663.81,108899.49
+388,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,507454,10/03/1938,M,BIL,469635.36,747192.31
+389,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+390,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,333446,06/09/1958,H,malaga,424928.5,790943.81
+391,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+392,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,577524,21/06/1970,H,BIL,126474.95,158211.83
+393,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+394,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,313434,07/03/1992,M,BIL,550929.99,609982.11
+395,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+396,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,381614,22/02/1940,H,MLG,527780.5,1011117.45
+397,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,459355,25/11/1955,M,bilbao,281443.14,271212.92
+398,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+399,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+400,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+401,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,527219,19/12/1932,M,malaga,712655.32,886305.07
+402,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+403,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+404,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+405,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,331159,27/11/1987,M,MLG,124873.02,243375.77
+406,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Asistido,501380,15/04/1993,H,Valencia,931358.04,1366513.27
+407,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,382582,12/08/1944,M,Barcelona,918525.92,921465.91
+408,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,461443,12/12/1960,M,Zaragoza,84465.79,144048.74
+409,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion aceptada,396239,11/06/1948,M,Valencia,606048.79,934730.71
+410,371,13,Viviendo una Vida Activa,ArteFinanciado,20/10/2022,Zaragoza,Invitacion enviada,537832,16/09/1936,M,MAD,719486.24,726799.47
+411,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+412,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+413,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+414,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+415,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+416,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+417,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+418,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+419,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+420,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+421,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+422,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+423,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+424,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,328310,14/09/1950,H,bilbao,192519.86,235013.03
+425,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+426,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+427,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+428,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+429,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+430,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,420194,18/01/1956,H,MAD,766162.58,1321718.83
+431,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+432,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+433,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+434,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+435,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion enviada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+436,541,17,Planificación financiera integral,Asesoría Financiera Personalizada,20/09/2022,Bilbao,Invitacion aceptada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+437,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,400237,21/10/1971,H,BIL,104623.0,185796.13
+438,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,386736,25/05/1957,M,MAD,73324.92,75298.18
+439,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+440,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+441,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+442,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+443,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,385018,04/10/1978,M,madrid,578454.57,694833.99
+444,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+445,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+446,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+447,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+448,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+449,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+450,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+451,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+452,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+453,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+454,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+455,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+456,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,420194,18/01/1956,H,MAD,766162.58,1321718.83
+457,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+458,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+459,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+460,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+461,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+462,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+463,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+464,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+465,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+466,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+467,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,500305,25/12/1998,H,Málaga,321425.55,443334.65
+468,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,474495,25/12/1990,H,Málaga,514179.79,525419.11
+469,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,571593,26/02/1957,M,madrid,522171.12,1036768.72
+470,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+471,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,568086,28/10/1992,M,sevilla,179558.35,278797.64
+472,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,379224,30/09/1997,H,bilbao,403144.82,367885.64
+473,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+474,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+475,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+476,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+477,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+478,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+479,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+480,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,473226,02/01/1991,H,Málaga,114287.13,129266.41
+481,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,589562,23/09/1944,M,MLG,169636.53,293434.83
+482,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+483,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+484,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+485,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+486,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,536637,25/11/1982,H,MLG,645870.72,997421.57
+487,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,421122,21/09/1966,M,MAD,477243.57,569261.23
+488,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,553677,28/07/1940,H,valencia,59663.81,108899.49
+489,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,507454,10/03/1938,M,BIL,469635.36,747192.31
+490,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,413269,30/05/1938,M,sevilla,720943.87,998509.98
+491,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,333446,06/09/1958,H,malaga,424928.5,790943.81
+492,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+493,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,577524,21/06/1970,H,BIL,126474.95,158211.83
+494,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,556356,10/02/1999,M,bilbao,489061.04,846324.75
+495,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,313434,07/03/1992,M,BIL,550929.99,609982.11
+496,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Asistido,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+497,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,381614,22/02/1940,H,MLG,527780.5,1011117.45
+498,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+499,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+500,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+501,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+502,432,18,Innovación en tu empresa,Fondo Global Diversificado,27/09/2016,Madrid,Invitacion aceptada,527219,19/12/1932,M,malaga,712655.32,886305.07
+503,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+504,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+505,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+506,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+507,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+508,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+509,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+510,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+511,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+512,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+513,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+514,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+515,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+516,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+517,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+518,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+519,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+520,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+521,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+522,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+523,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+524,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+525,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,441601,19/04/1951,H,madrid,334508.24,531307.14
+526,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+527,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+528,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+529,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+530,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+531,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+532,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,442757,09/06/1988,M,VLC,494328.53,830044.37
+533,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+534,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+535,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,571593,26/02/1957,M,madrid,522171.12,1036768.72
+536,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+537,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,568086,28/10/1992,M,sevilla,179558.35,278797.64
+538,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,379224,30/09/1997,H,bilbao,403144.82,367885.64
+539,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+540,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+541,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+542,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+543,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+544,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,354704,25/04/1999,H,Valencia,281509.37,512658.6
+545,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,418052,24/08/1955,M,sevilla,226051.04,286067.36
+546,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+547,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,589562,23/09/1944,M,MLG,169636.53,293434.83
+548,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+549,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+550,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+551,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+552,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,536637,25/11/1982,H,MLG,645870.72,997421.57
+553,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,421122,21/09/1966,M,MAD,477243.57,569261.23
+554,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,553677,28/07/1940,H,valencia,59663.81,108899.49
+555,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,507454,10/03/1938,M,BIL,469635.36,747192.31
+556,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,413269,30/05/1938,M,sevilla,720943.87,998509.98
+557,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,333446,06/09/1958,H,malaga,424928.5,790943.81
+558,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+559,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,577524,21/06/1970,H,BIL,126474.95,158211.83
+560,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+561,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,313434,07/03/1992,M,BIL,550929.99,609982.11
+562,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+563,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,381614,22/02/1940,H,MLG,527780.5,1011117.45
+564,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion enviada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+565,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+566,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+567,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+568,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,527219,19/12/1932,M,malaga,712655.32,886305.07
+569,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+570,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Invitacion aceptada,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+571,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+572,473,15,Festival de música,Cuenta de ahorro para apoyar a artistas locales,16/09/2016,Malaga,Asistido,331159,27/11/1987,M,MLG,124873.02,243375.77
+573,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,400237,21/10/1971,H,BIL,104623.0,185796.13
+574,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+575,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+576,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,599779,15/11/1997,M,BCN,629294.88,701807.02
+577,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+578,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+579,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,385018,04/10/1978,M,madrid,578454.57,694833.99
+580,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+581,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+582,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+583,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+584,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+585,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+586,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,328310,14/09/1950,H,bilbao,192519.86,235013.03
+587,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+588,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+589,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+590,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+591,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+592,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+593,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+594,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+595,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,441601,19/04/1951,H,madrid,334508.24,531307.14
+596,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+597,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+598,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+599,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+600,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+601,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+602,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,442757,09/06/1988,M,VLC,494328.53,830044.37
+603,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+604,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,474495,25/12/1990,H,Málaga,514179.79,525419.11
+605,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+606,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+607,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+608,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,379224,30/09/1997,H,bilbao,403144.82,367885.64
+609,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+610,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+611,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+612,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+613,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,378958,21/05/1946,M,Madrid,655951.7,641108.03
+614,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+615,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+616,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+617,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,589562,23/09/1944,M,MLG,169636.53,293434.83
+618,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+619,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+620,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+621,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,576923,22/04/1983,M,barcelona,130921.63,222427.78
+622,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,536637,25/11/1982,H,MLG,645870.72,997421.57
+623,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+624,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,553677,28/07/1940,H,valencia,59663.81,108899.49
+625,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,507454,10/03/1938,M,BIL,469635.36,747192.31
+626,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+627,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,333446,06/09/1958,H,malaga,424928.5,790943.81
+628,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+629,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,577524,21/06/1970,H,BIL,126474.95,158211.83
+630,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+631,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,313434,07/03/1992,M,BIL,550929.99,609982.11
+632,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+633,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,381614,22/02/1940,H,MLG,527780.5,1011117.45
+634,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+635,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+636,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+637,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+638,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,527219,19/12/1932,M,malaga,712655.32,886305.07
+639,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+640,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Asistido,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+641,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+642,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,331159,27/11/1987,M,MLG,124873.02,243375.77
+643,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion aceptada,501380,15/04/1993,H,Valencia,931358.04,1366513.27
+644,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,382582,12/08/1944,M,Barcelona,918525.92,921465.91
+645,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,461443,12/12/1960,M,Zaragoza,84465.79,144048.74
+646,939,11,Maratón de Arte Urbano,Cuenta Universitaria con Beneficios,01/09/2021,Barcelona,Invitacion enviada,396239,11/06/1948,M,Valencia,606048.79,934730.71
+647,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,400237,21/10/1971,H,BIL,104623.0,185796.13
+648,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+649,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+650,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+651,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+652,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,320505,07/04/1972,H,BCN,140388.24,155426.9
+653,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+654,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+655,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+656,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion aceptada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+657,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+658,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+659,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Asistido,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+660,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+661,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+662,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+663,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion aceptada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+664,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+665,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+666,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+667,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+668,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+669,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,441601,19/04/1951,H,madrid,334508.24,531307.14
+670,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+671,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Invitacion enviada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+672,110,11,Presentación de libros,Cuenta Educativa Futura,18/08/2022,Zaragoza,Asistido,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+759,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,400237,21/10/1971,H,BIL,104623.0,185796.13
+760,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+761,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+762,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,599779,15/11/1997,M,BCN,629294.88,701807.02
+763,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+764,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+765,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+766,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+767,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+768,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+769,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+770,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+771,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+772,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+773,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+774,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+775,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+776,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+777,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+778,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,420194,18/01/1956,H,MAD,766162.58,1321718.83
+779,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,399288,24/04/1977,M,MAD,854308.13,1278369.11
+780,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+781,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,441601,19/04/1951,H,madrid,334508.24,531307.14
+782,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+783,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+784,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+785,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+786,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+787,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,515616,12/11/1958,H,Valencia,749899.12,688268.49
+788,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+789,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+790,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+791,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+792,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,317325,27/07/1999,H,Madrid,335533.13,479858.12
+793,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+794,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+795,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+796,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+797,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+798,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+799,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,378958,21/05/1946,M,Madrid,655951.7,641108.03
+800,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+801,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+802,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+803,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,589562,23/09/1944,M,MLG,169636.53,293434.83
+804,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+805,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+806,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+807,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,576923,22/04/1983,M,barcelona,130921.63,222427.78
+808,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,536637,25/11/1982,H,MLG,645870.72,997421.57
+809,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+810,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,553677,28/07/1940,H,valencia,59663.81,108899.49
+811,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,507454,10/03/1938,M,BIL,469635.36,747192.31
+812,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+813,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,333446,06/09/1958,H,malaga,424928.5,790943.81
+814,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+815,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,577524,21/06/1970,H,BIL,126474.95,158211.83
+816,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+817,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,313434,07/03/1992,M,BIL,550929.99,609982.11
+818,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+819,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,381614,22/02/1940,H,MLG,527780.5,1011117.45
+820,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,459355,25/11/1955,M,bilbao,281443.14,271212.92
+821,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+822,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+823,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+824,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,527219,19/12/1932,M,malaga,712655.32,886305.07
+825,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Asistido,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+826,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+827,1204,14,Gestión Activa vs. Pasiva,ProgramaMelodía Rewards,01/04/2022,Valencia,Invitacion aceptada,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+879,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,400237,21/10/1971,H,BIL,104623.0,185796.13
+880,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+881,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+882,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+883,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+884,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,320505,07/04/1972,H,BCN,140388.24,155426.9
+885,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+886,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+887,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+888,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+889,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+890,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+891,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+892,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+893,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,513566,07/06/1947,H,sevilla,396296.4,498852.72
+894,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+895,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+896,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+897,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,483751,23/11/2005,M,Málaga,260476.99,376240.42
+898,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+899,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,399288,24/04/1977,M,MAD,854308.13,1278369.11
+900,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+901,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+902,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+903,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+904,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+905,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+906,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+907,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,515616,12/11/1958,H,Valencia,749899.12,688268.49
+908,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,442757,09/06/1988,M,VLC,494328.53,830044.37
+909,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+910,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,474495,25/12/1990,H,Málaga,514179.79,525419.11
+911,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+912,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,317325,27/07/1999,H,Madrid,335533.13,479858.12
+913,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+914,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+915,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+916,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+917,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+918,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+919,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,378958,21/05/1946,M,Madrid,655951.7,641108.03
+920,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,354704,25/04/1999,H,Valencia,281509.37,512658.6
+921,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+922,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+923,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion aceptada,589562,23/09/1944,M,MLG,169636.53,293434.83
+924,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+925,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Invitacion enviada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+926,732,17,Planificación financiera integral,Préstamo para Equipamiento deportivo,18/12/2018,Sevilla,Asistido,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+927,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+928,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+929,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+930,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+931,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+932,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,320505,07/04/1972,H,BCN,140388.24,155426.9
+933,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+934,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+935,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+936,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+937,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+938,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+939,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+940,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,328310,14/09/1950,H,bilbao,192519.86,235013.03
+941,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+942,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+943,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+944,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+945,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+946,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+947,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+948,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+949,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+950,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+951,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+952,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+953,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+954,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+955,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+956,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,442757,09/06/1988,M,VLC,494328.53,830044.37
+957,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+958,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+959,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+960,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,317325,27/07/1999,H,Madrid,335533.13,479858.12
+961,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+962,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+963,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+964,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+965,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+966,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+967,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,378958,21/05/1946,M,Madrid,655951.7,641108.03
+968,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+969,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,418052,24/08/1955,M,sevilla,226051.04,286067.36
+970,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,473226,02/01/1991,H,Málaga,114287.13,129266.41
+971,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,589562,23/09/1944,M,MLG,169636.53,293434.83
+972,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,503181,21/02/1963,M,SEV,973514.38,1580599.76
+973,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+974,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+975,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+976,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,536637,25/11/1982,H,MLG,645870.72,997421.57
+977,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,421122,21/09/1966,M,MAD,477243.57,569261.23
+978,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,553677,28/07/1940,H,valencia,59663.81,108899.49
+979,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,507454,10/03/1938,M,BIL,469635.36,747192.31
+980,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,413269,30/05/1938,M,sevilla,720943.87,998509.98
+981,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,333446,06/09/1958,H,malaga,424928.5,790943.81
+982,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,380709,17/12/1999,H,Barcelona,446918.84,478807.34
+983,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,577524,21/06/1970,H,BIL,126474.95,158211.83
+984,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,556356,10/02/1999,M,bilbao,489061.04,846324.75
+985,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,313434,07/03/1992,M,BIL,550929.99,609982.11
+986,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,418320,27/01/1967,M,Barcelona,553197.82,815251.85
+987,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,381614,22/02/1940,H,MLG,527780.5,1011117.45
+988,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,459355,25/11/1955,M,bilbao,281443.14,271212.92
+989,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,318915,24/05/1980,H,Barcelona,72952.1,125716.25
+990,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,445784,27/08/1991,M,ZGZ,533858.36,971239.76
+991,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,323390,12/03/1957,H,barcelona,569329.69,1035003.47
+992,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,527219,19/12/1932,M,malaga,712655.32,886305.07
+993,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,485266,13/09/1949,H,zaragoza,999361.42,983421.71
+994,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,319172,25/02/1946,H,Sevilla,982605.23,1400252.84
+995,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,450361,06/07/2003,M,zaragoza,969925.47,900074.04
+996,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,331159,27/11/1987,M,MLG,124873.02,243375.77
+997,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,501380,15/04/1993,H,Valencia,931358.04,1366513.27
+998,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,382582,12/08/1944,M,Barcelona,918525.92,921465.91
+999,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,461443,12/12/1960,M,Zaragoza,84465.79,144048.74
+1000,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,396239,11/06/1948,M,Valencia,606048.79,934730.71
+1001,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,537832,16/09/1936,M,MAD,719486.24,726799.47
+1002,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,532047,23/10/1949,H,zaragoza,284305.65,553164.61
+1003,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,305762,14/09/1956,M,malaga,883966.48,1184389.88
+1004,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,349324,04/12/1932,H,Barcelona,403847.92,700728.75
+1005,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,430919,30/01/1932,M,MAD,169616.57,262326.11
+1006,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,444363,24/09/1986,H,VLC,98221.17,115344.21
+1007,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,580800,25/12/1968,M,Valencia,333900.29,644998.49
+1008,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,423939,02/03/1969,M,Valencia,480021.66,809249.44
+1009,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,367627,12/03/1952,M,sevilla,436424.68,427863.53
+1010,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,356047,07/05/1935,M,BIL,851269.81,1101799.06
+1011,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion enviada,511825,04/01/1970,H,barcelona,990629.63,1620800.81
+1012,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,592248,22/04/1950,M,Barcelona,400403.25,464213.26
+1013,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,558642,19/06/1962,H,sevilla,481691.89,648613.79
+1014,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Asistido,307172,07/11/1995,H,Zaragoza,364894.96,550782.32
+1015,735,14,Rendimiento de los fondos de inversión,Fondo Global Diversificado,26/12/2022,Zaragoza,Invitacion aceptada,429407,16/04/1994,M,Sevilla,569499.09,637194.63
+1016,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,400237,21/10/1971,H,BIL,104623.0,185796.13
+1017,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,386736,25/05/1957,M,MAD,73324.92,75298.18
+1018,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+1019,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+1020,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+1021,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,320505,07/04/1972,H,BCN,140388.24,155426.9
+1022,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,385018,04/10/1978,M,madrid,578454.57,694833.99
+1023,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+1024,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,538794,09/09/1930,M,sevilla,407004.88,369895.0
+1025,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+1026,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+1027,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+1028,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+1029,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,328310,14/09/1950,H,bilbao,192519.86,235013.03
+1030,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+1031,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+1032,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+1033,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+1034,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+1035,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,420194,18/01/1956,H,MAD,766162.58,1321718.83
+1036,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,399288,24/04/1977,M,MAD,854308.13,1278369.11
+1037,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+1038,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,441601,19/04/1951,H,madrid,334508.24,531307.14
+1039,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+1040,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+1041,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+1042,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+1043,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+1044,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,515616,12/11/1958,H,Valencia,749899.12,688268.49
+1045,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,442757,09/06/1988,M,VLC,494328.53,830044.37
+1046,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+1047,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,474495,25/12/1990,H,Málaga,514179.79,525419.11
+1048,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,571593,26/02/1957,M,madrid,522171.12,1036768.72
+1049,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,317325,27/07/1999,H,Madrid,335533.13,479858.12
+1050,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,568086,28/10/1992,M,sevilla,179558.35,278797.64
+1051,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,379224,30/09/1997,H,bilbao,403144.82,367885.64
+1052,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,340092,22/09/1951,H,bilbao,992558.07,1426961.51
+1053,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,354530,19/08/1990,M,Bilbao,600327.83,1034739.96
+1054,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,398014,20/08/1992,H,ZGZ,228897.11,322276.51
+1055,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,519337,20/06/1942,M,Barcelona,214119.44,350235.34
+1056,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,378958,21/05/1946,M,Madrid,655951.7,641108.03
+1057,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,354704,25/04/1999,H,Valencia,281509.37,512658.6
+1058,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,418052,24/08/1955,M,sevilla,226051.04,286067.36
+1059,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,473226,02/01/1991,H,Málaga,114287.13,129266.41
+1060,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,589562,23/09/1944,M,MLG,169636.53,293434.83
+1061,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,503181,21/02/1963,M,SEV,973514.38,1580599.76
+1062,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,590881,22/04/1964,M,Zaragoza,188771.4,161484.92
+1063,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,439478,17/05/1930,M,Sevilla,271847.73,462336.6
+1064,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion aceptada,576923,22/04/1983,M,barcelona,130921.63,222427.78
+1065,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Asistido,536637,25/11/1982,H,MLG,645870.72,997421.57
+1066,691,17,Gestión de riesgos,Cuenta Universitaria con Beneficios,25/10/2019,Sevilla,Invitacion enviada,421122,21/09/1966,M,MAD,477243.57,569261.23
+1067,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,400237,21/10/1971,H,BIL,104623.0,185796.13
+1068,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,386736,25/05/1957,M,MAD,73324.92,75298.18
+1069,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,521788,01/10/1932,H,ZGZ,453724.04,656572.09
+1070,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,599779,15/11/1997,M,BCN,629294.88,701807.02
+1071,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,519305,19/06/1945,H,Málaga,709428.79,1356012.86
+1072,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,320505,07/04/1972,H,BCN,140388.24,155426.9
+1073,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,385018,04/10/1978,M,madrid,578454.57,694833.99
+1074,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,573461,04/08/1934,M,SEV,747875.59,1183797.81
+1075,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,538794,09/09/1930,M,sevilla,407004.88,369895.0
+1076,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,515959,13/07/1986,H,ZGZ,199682.76,369432.63
+1077,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,536635,03/11/1992,H,zaragoza,740292.9,1316096.91
+1078,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,518752,05/05/1947,H,Bilbao,655571.2,1270026.03
+1079,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,500397,21/04/2005,H,sevilla,935904.13,1023621.5
+1080,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,328310,14/09/1950,H,bilbao,192519.86,235013.03
+1081,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,513566,07/06/1947,H,sevilla,396296.4,498852.72
+1082,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,302964,16/10/1945,H,ZGZ,544787.58,649571.84
+1083,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,447318,11/07/1980,H,Sevilla,984945.19,1190208.04
+1084,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,433159,05/11/1992,H,Barcelona,586288.49,704163.92
+1085,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,483751,23/11/2005,M,Málaga,260476.99,376240.42
+1086,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,420194,18/01/1956,H,MAD,766162.58,1321718.83
+1087,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,399288,24/04/1977,M,MAD,854308.13,1278369.11
+1088,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,575491,14/11/1959,H,Barcelona,608304.42,732761.46
+1089,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,441601,19/04/1951,H,madrid,334508.24,531307.14
+1090,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,379797,30/03/1940,M,sevilla,943485.59,1654673.86
+1091,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,444535,01/12/1967,M,Bilbao,884833.35,1146828.3
+1092,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,323686,25/08/1951,M,zaragoza,510107.71,999851.39
+1093,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,544960,06/08/1981,H,Barcelona,365993.27,322353.73
+1094,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,459492,30/11/1958,H,zaragoza,651949.29,1000722.34
+1095,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion enviada,515616,12/11/1958,H,Valencia,749899.12,688268.49
+1096,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,442757,09/06/1988,M,VLC,494328.53,830044.37
+1097,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Invitacion aceptada,500305,25/12/1998,H,Málaga,321425.55,443334.65
+1098,1087,14,Gestión Activa vs. Pasiva,Tarjeta Healthy Living,30/06/2020,Madrid,Asistido,474495,25/12/1990,H,Málaga,514179.79,525419.11
